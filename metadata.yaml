@@ -1,0 +1,28 @@
+_repo: The-Broncho-Rider-Boys-with-Funston-at-Vera-CruzOr-Upholding-the-Honor-of-the-Stars-and-Strip__19538
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19538-h/images/cover258tn.jpg
+creator:
+  author:
+    agent_name: Fowler, Frank
+    gutenberg_agent_id: '8729'
+    url: http://www.gutenberg.org/2009/agents/8729
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mexico -- History -- Revolution, 1910-1920 -- Juvenile fiction'
+title: 'The Broncho Rider Boys with Funston at Vera Cruz
+
+  Or, Upholding the Honor of the Stars and Stripes'
+url: http://www.gutenberg.org/ebooks/19538
