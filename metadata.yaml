@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8729'
     url: http://www.gutenberg.org/2009/agents/8729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19538#The-Broncho-Rider-Boys-with-Funston-at-Vera-CruzOr-Upholding-the-Honor-of-the-Stars-and-Strip_
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-10-14'
 gutenberg_type: Text
